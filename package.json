@@ -1,0 +1,35 @@
+{
+  "name": "type-from",
+  "version": "1.0.0",
+  "description": "Get type from given argument",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/type-from.js.git"
+  },
+  "keywords": [
+    "type"
+  ],
+  "author": "Caio Gondim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiogondim/type-from.js/issues"
+  },
+  "homepage": "https://github.com/caiogondim/type-from.js#readme",
+  "devDependencies": {
+    "jest": "22.4.3"
+  },
+  "jest": {
+    "testMatch": [
+      "**/test/*.js"
+    ],
+    "collectCoverage": true
+  }
+}
