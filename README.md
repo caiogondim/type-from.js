@@ -1,5 +1,7 @@
 # type-from
 
+Get type from given argument.
+
 ## Installation
 
 ```console
