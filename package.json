@@ -15,7 +15,10 @@
     "url": "git+https://github.com/caiogondim/type-from.js.git"
   },
   "keywords": [
-    "type"
+    "type",
+    "typeof",
+    "cast",
+    "checking"
   ],
   "author": "Caio Gondim",
   "license": "MIT",
